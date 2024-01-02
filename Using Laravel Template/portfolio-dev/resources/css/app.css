@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.social-media:hover .social-icon {
+    filter: invert(100%);
+}
